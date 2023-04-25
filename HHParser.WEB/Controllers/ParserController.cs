@@ -17,7 +17,7 @@ namespace HHParser.WEB.Controllers
         [HttpGet]
         public void GetDate()
         {
-            _loader.HtmlLoadAndParse();
+            
         }
     }
 }
